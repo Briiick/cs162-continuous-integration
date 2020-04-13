@@ -32,4 +32,4 @@ before_script:
     - sleep 10
 # command to run tests
 script:
-- python tests/<YOUR SCRIPT HERE>.py
+- python tests/integration_tests.py
